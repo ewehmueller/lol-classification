@@ -26,7 +26,14 @@ I devised these questions that I believed could be answered through data analysi
 * 3. What objectives should our players ignore?
 ***
 
-I explore this thoroughly in the league-analysis.ipynb file contained within this repository via classification modeling.
+I explore this thoroughly in the league-analysis.ipynb file contained within this repository via classification modeling. Here are some visualization previews of the data I investigated.
+
+## Gold Diff vs Kills
+<img src="./images/visual1.png" width=90%>
+
+
+## XGBoost Feature Importances
+<img src="./images/visual2.png" width=90%>
 
 ## Repository Structure
 
